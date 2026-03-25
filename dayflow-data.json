@@ -1,0 +1,24 @@
+{
+  "divisions": [],
+  "dayData": {
+    "2026-03-24": {
+      "tasks": [],
+      "timetable": []
+    }
+  },
+  "quotes": [],
+  "todos": [],
+  "diary": {},
+  "chatHistory": [],
+  "settings": {
+    "pin": "",
+    "apiKey": "",
+    "userName": "",
+    "profession": "",
+    "interests": "",
+    "goals": "",
+    "screenTimeToday": "",
+    "appUsage": "",
+    "dynamicTT": false
+  }
+}
